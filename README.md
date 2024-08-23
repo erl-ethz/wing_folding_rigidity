@@ -1,4 +1,4 @@
-# wing_folding_rigidity
+# Stiffening of a Corrugated Wing by a Regular Longitudinal Folding Pattern
 This repository contains the MatLab code to derive Eqn. 2 in [L. Girardi, et al., IEEE IROS 
 L. Girardi, R. Wu, Y. Fukatsu, H. Shigemune, S. Mintchev, “Biodegradable Gliding Paper Flyers Fabricated Through Inkjet Printing” in Proc. IEEE/RSJ Int. Conf. Intell. Robots Syst, 2024] (not yet available online) and validate the stiffening ratio equation with finite element analysis. 
 
